@@ -1,4 +1,14 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xT8qB5aGYuXyPbRpNm/giphy.gif" width="100"/>
+</div>
+<div id="badges"  align="center">
+  <a href="https://vk.com/belozerovdm">
+    <img src="https://img.shields.io/badge/VKontakte-blue?logo=VK&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=DmitriyBelozerov&style=flat-square&color=blue" alt=""/>
+</div>
 
 <!--
 **DmitriyBelozerov/DmitriyBelozerov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
