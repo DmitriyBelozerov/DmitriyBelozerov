@@ -12,14 +12,14 @@
 
 ---
 
-### :man_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+### :man_technologist: Обо мне :
+Frontend - разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Интересны Pet - проекты! Пишите, если есть что предложить.😉
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: В разработке стараюсь искать информацию у первоисточника.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: В свободное время решаю задачи на  CodeWars.
 
 ---
 
