@@ -8,6 +8,9 @@
   <a href="mailto:dm.belozerov@yandex.ru" target="_blank">
     <img src="https://img.shields.io/badge/EMail-red?logo=MAIL&logoColor=red&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://t.me/redhv" target="_blank">
+    <img src="https://img.shields.io/badge/TG-blue?logo=TG&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
 </div>
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=DmitriyBelozerov&style=flat-square&color=blue" alt=""/>
