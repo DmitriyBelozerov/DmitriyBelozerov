@@ -2,8 +2,11 @@
   <img src="https://media.giphy.com/media/xT8qB5aGYuXyPbRpNm/giphy.gif" width="100"/>
 </div>
 <div id="badges"  align="center">
-  <a href="https://vk.com/belozerovdm">
+  <a href="https://vk.com/belozerovdm" target="_blank">
     <img src="https://img.shields.io/badge/VKontakte-blue?logo=VK&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:dm.belozerov@yandex.ru" target="_blank">
+    <img src="https://img.shields.io/badge/EMail-red?logo=MAIL&logoColor=red&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
 <div id="counter" align="center">
@@ -34,6 +37,7 @@ Frontend - разработчик <img src="https://media.giphy.com/media/WUlplc
 
 ---
 
+### 📊 Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitriyBelozerov&theme=dark&hide_border=true&exclude_days=Mon)](https://git.io/streak-stats)
 
 ---
